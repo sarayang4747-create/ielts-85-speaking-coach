@@ -1,1 +1,7 @@
+interface:
+  display_name: "IELTS 8.5 Speaking Coach"
+  short_description: "不背模板的雅思口语方法论教练"
+  default_prompt: "Use $ielts-85-speaking-coach to help me diagnose and improve my IELTS Speaking answer without memorizing templates."
 
+policy:
+  allow_implicit_invocation: true
